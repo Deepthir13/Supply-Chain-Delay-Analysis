@@ -38,7 +38,7 @@ This project analyzes a dynamic supply chain dataset to:
 
 ---
 
-## 📊 Key Analyses
+## 📊 Key Analysis
 
 ### ✅ 1. Delay & SLA Breach Analysis
 
