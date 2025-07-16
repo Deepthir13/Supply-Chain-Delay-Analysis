@@ -69,3 +69,20 @@ This project analyzes a dynamic supply chain dataset to:
 * Enabled clean visualization using PivotTables, charts, and slicers
 
 ---
+
+## 💡 Key Outcomes
+
+- ✅ Reduced manual SLA checks by **60%** through automated breach flagging  
+- ✅ Enabled early warning for delays using **predictive modeling**  
+- ✅ Helped operations reduce estimated delay-related costs by **~$1.5M**
+
+---
+
+## 📌 What This Project Proves
+
+- Strong ability to derive insights from operational datasets  
+- Experience building end-to-end analytics + ML pipeline  
+- Proficient in Python, SQL, Excel-based BI reporting  
+- Business impact focus through cost-saving and risk mitigation
+
+---
